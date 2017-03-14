@@ -10,8 +10,12 @@ let A = Matrix([
 function power(mtrx,p){
     //mtrx is the matrix you input
     //p is the power of the matrix you want
-    while()
-      let squared = matrix
+    let mtrx = A
+    let p = p
+    for(a=0;a<p;p++){
+      let mtrx(mtrx.prod(mtrx));
+    }
+  }
 }
 
 
